@@ -1,12 +1,11 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src="https://devfolio.sgp1.digitaloceanspaces.com/ghost/2019/09/hero.png" alt="Project logo"></a>
+ <img src="https://hackinout.co/inout-7.svg" alt="Project logo"></a>
 </p>
 <h1 align="center">Happy Gardening</h1>
 
 <div align="center">
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
 
 </div>
 
