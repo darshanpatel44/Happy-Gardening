@@ -22,18 +22,8 @@
 
 ## 🧐 Problem Statement <a name = "problem_statement"></a>
 
-It is useful to design and follow a specific format when writing a problem statement. While there are several options
-for doing this, the following is a simple and straightforward template often used in Business Analysis to maintain
-focus on defining the problem.
+As we all know this year, we faced many problems due to COVID-19 and had to stay home during this pandemic. People did many activities at their home as they had lot of time. So, they started cooking, Artwork, home decorations, and many other things. One of the things is that they started decorating home with plants and those who had space for Gardening started building a garden in their area and staring planting flower plants, vegetables and all that things the liked.
 
-- IDEAL: This section is used to describe the desired or “to be” state of the process or product. At large, this section
-  should illustrate what the expected environment would look like once the solution is implemented.
-- REALITY: This section is used to describe the current or “as is” state of the process or product.
-- CONSEQUENCES: This section is used to describe the impacts on the business if the problem is not fixed or improved upon.
-  This includes costs associated with loss of money, time, productivity, competitive advantage, and so forth.
-
-Following this format will result in a workable document that can be used to understand the problem and elicit
-requirements that will lead to a winning solution.
 
 ## 💡 Idea / Solution <a name = "idea"></a>
 
@@ -56,7 +46,7 @@ In this Phase we are willing to extend our services like taking contracts in cor
 
 ## 🎈 Usage <a name="usage"></a>
 
-Add notes about how to use the system.
+- We are here to provide gardening services to people so they have a great garden place at their home where they can have flowers they like, where they can grow vegetables, where they can have a cup of tea and refresh their mind.
 
 ## ⛏️ Built With <a name = "tech_stack"></a>
 
