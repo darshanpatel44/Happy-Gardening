@@ -2,14 +2,8 @@
   <a href="" rel="noopener">
  <img src="https://hackinout.co/inout-7.svg" alt="Project logo"></a>
 </p>
-<h1 align="center">Happy Gardening</h1>
+<h1 align="center" style="font-size:19em;">Happy Gardening</h1>
 
-<div align="center">
-
-
-</div>
-
----
 
 <p align="center"> Don’t be mean, go green
     <br> 
