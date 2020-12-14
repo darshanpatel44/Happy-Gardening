@@ -1,15 +1,11 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src="https://i.imgur.com/AZ2iWek.png" alt="Project logo"></a>
+ <img src="https://devfolio.sgp1.digitaloceanspaces.com/ghost/2019/09/hero.png" alt="Project logo"></a>
 </p>
-<h3 align="center">Happy Gardening</h3>
+<h1 align="center">Happy Gardening</h1>
 
 <div align="center">
 
-[![Hackathon](https://img.shields.io/badge/hackathon-name-orange.svg)](https://hackinout.co/)
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
 
 </div>
@@ -49,15 +45,19 @@ requirements that will lead to a winning solution.
 
 ## 💡 Idea / Solution <a name = "idea"></a>
 
-This section is used to describe potential solutions.
-
-Once the ideal, reality, and consequences sections have been
-completed, and understood, it becomes easier to provide a solution for solving the problem.
+Our Idea is to build an app that is engaged in offering all kind of Gardening Services like Landscaping Services, Planting and Maintaining Lawn Services, Rockery, Applying Fertilisers, Tidying, Watering and Hedge Cutting services which user can select according to their need. Also, we will be providing service in which we take up contract to build a complete garden and provide a complete monthly maintaining service. These services can help users to maintain and decorate their gardens as well as home. This idea will encourage people toward plantation and can also motivate them to do organic farming at home or Terrace farming. For those who do not have enough space at their home for a garden they can directly purchase Flower plant along with selecting decorative Flower plant port which can create a good environment in their living room or their work space also they can purchase tools required for maintaining Gardens. For providing purchasing service we will be contacting nursery according to the location and all small-scale workers who are creative in flower port design. This app will help people to know more about plants and will create job opportunities for gardener as well as decorator who are struggling for large scale product selling.
 
 ## 🚀 Future Scope <a name = "future_scope"></a>
 
-Write about what you could not develop during the course of the Hackathon; and about what your project can achieve
-in the future.
+- Phase 1 of App :
+  In our initial phase of app launch we will be adding all kind of gardening services which are described above along with purchasing services in limited cities.
+ 
+- Phase 2 of App :
+After achieving success in those cities, we are willing to add more locations where we can provide our best services and will also keep adding more and more nurseries which will help users to find product with its best price.
+ 
+- Phase 3 of App :
+In this Phase we are willing to extend our services like taking contracts in corporate offices, in functions like marriages, government contracts and contracts given by any society. We are also willing to start a Social Plantation Event section in our app by which people will be encouraged to join plantation events organised by us or by any other organisation will be promoted using this section.
+
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
