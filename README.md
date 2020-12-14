@@ -24,7 +24,6 @@
 
 - [Problem Statement](#problem_statement)
 - [Idea / Solution](#idea)
-- [Dependencies / Limitations](#limitations)
 - [Future Scope](#future_scope)
 - [Setting up a local environment](#getting_started)
 - [Usage](#usage)
@@ -54,15 +53,6 @@ This section is used to describe potential solutions.
 
 Once the ideal, reality, and consequences sections have been
 completed, and understood, it becomes easier to provide a solution for solving the problem.
-
-## ⛓️ Dependencies / Limitations <a name = "limitations"></a>
-
-- What are the dependencies of your project?
-- Describe each limitation in detailed but concise terms
-- Explain why each limitation exists
-- Provide the reasons why each limitation could not be overcome using the method(s) chosen to acquire.
-- Assess the impact of each limitation in relation to the overall findings and conclusions of your project, and if
-  appropriate, describe how these limitations could point to the need for further research.
 
 ## 🚀 Future Scope <a name = "future_scope"></a>
 
@@ -111,10 +101,11 @@ Add notes about how to use the system.
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
--[@YashPatel1311](https://github.com/YashPatel1311)
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors)
+- [@darshanpatel44](https://github.com/darshanpatel44/) 
+- [@yashpatel1311](https://github.com/YashPatel1311) 
+- [@yashpatel4900](https://github.com/yashpatel4900) 
 
+See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors)
 who participated in this project.
 
 ## 🎉 Acknowledgments <a name = "acknowledgments"></a>
