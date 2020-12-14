@@ -112,8 +112,9 @@ Add notes about how to use the system.
 ## ✍️ Authors <a name = "authors"></a>
 
 - [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
-
+-[@YashPatel1311](https://github.com/YashPatel1311)
 See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors)
+
 who participated in this project.
 
 ## 🎉 Acknowledgments <a name = "acknowledgments"></a>
